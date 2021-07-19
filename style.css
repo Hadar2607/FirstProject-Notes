@@ -1,0 +1,83 @@
+body{
+    background-image: url("board.jpg");
+}
+
+body, .divNotes{
+    background-size: cover;
+    background-position: center;
+
+}
+
+#brd{
+    color: crimson;
+    font-family: "Amarillo";
+    text-align: center
+}  
+
+
+#c1{
+    background-image: url("paper.jpg");
+    width:500px;
+    height: 340px;
+}
+
+#col2 textarea{
+    resize: none;
+    background: none; 
+    border: none; 
+    height:140px;
+    width: 233px;
+    font-size: large;
+
+}
+
+.divNotes{
+
+    background-image: url("note1.png");
+    width: 234px;
+    height: 253px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+    opacity: 1;
+    display: inline-block;
+     animation: fade 2s linear;
+    }
+    
+    @keyframes fade {
+        0% {opacity:0;}
+        100% {opacity:1;}
+        
+      }
+
+      a{
+        position: relative;
+        top: 0;
+        right: -200px;
+        opacity: 0;
+        display: none;          
+
+    }
+
+   
+    div:hover > a {
+        display: "";
+        opacity: 1;
+    }
+
+
+    h3{
+        position: relative;
+        top: 5px;
+        right: 0px;
+        background-color: blueviolet;
+        
+    }
+
+    
+    h4{
+        position: relative;
+        top: -3px;
+        background-color: red;
+    }
+
+   
