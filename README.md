@@ -1,8 +1,9 @@
 
 # Task Board Project 
+
 ## Link to the project: [Task Node](https://hadar2607.github.io/Task-Board-Project/)
 
-# System description:
+### System description:
 * The user can add, edit and delete notes.
 * The data save in the local storage using json.
 ![image](https://user-images.githubusercontent.com/72446237/147338138-cfa87bce-87d4-40e5-a953-531df7c13c1f.png)
