@@ -13,3 +13,11 @@ When a task is deleted the information is also deleted from the local storage.
  
 ![image](https://user-images.githubusercontent.com/72446237/147338232-8f10ddb4-25ad-4559-9a0d-83bc80397700.png)
 
+HTML5
+CSS3
+Bootstrap
+JavaScript
+DOM Manipulation
+Events
+LocalStorage
+JSON
