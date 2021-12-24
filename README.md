@@ -1,6 +1,5 @@
  
- # Task Board Project - 
-url:https://hadar2607.github.io/Task-Board-Project/
+ # Task Board Project - https://hadar2607.github.io/Task-Board-Project/
  
  * The user can add, edit and delete notes.
 	
@@ -18,8 +17,7 @@ url:https://hadar2607.github.io/Task-Board-Project/
 ![image](https://user-images.githubusercontent.com/72446237/147338232-8f10ddb4-25ad-4559-9a0d-83bc80397700.png)
 
 
-Technologies:
-
+#Technologies:
 * HTML5
 * CSS3
 * Bootstrap
