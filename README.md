@@ -1,6 +1,5 @@
  
- # cshe
- 
+ # Task Board Project - 
  
  * The user can add, edit and delete notes.
 	
