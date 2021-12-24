@@ -1,5 +1,5 @@
  
- You can add, edit and delete notes.
+ The user can add, edit and delete notes.
 	
  The data save in the local storage using json.
  
