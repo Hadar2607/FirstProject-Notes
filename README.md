@@ -1,5 +1,6 @@
  
  You can add, edit and delete notes.
+	
  The data save in the local storage using json.
  
 ![image](https://user-images.githubusercontent.com/72446237/147338138-cfa87bce-87d4-40e5-a953-531df7c13c1f.png)
